@@ -6,8 +6,8 @@ require 'cabuum_resources/version'
 Gem::Specification.new do |spec|
   spec.name          = "cabuum_resources"
   spec.version       = CabuumResources::VERSION
-  spec.authors       = ["Bruno Casali"]
-  spec.email         = ["brunoocasali@gmail.com"]
+  spec.authors       = ["Bruno Casali", "Jonatan Santos"]
+  spec.email         = ["brunoocasali@gmail.com", "jonatam.ribeiro@hotmail.com"]
   spec.summary       = %q{This gem, will be used in projects of Cabuum that use, any people resource for example.}
   spec.description   = %q{People Resources, Products Resources...}
   spec.homepage      = "http://cabuum.com.br"
