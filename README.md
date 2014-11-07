@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CabuumResources
 
 TODO: Write a gem description
@@ -27,3 +28,9 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
+=======
+Resources
+=========
+
+The repository should be inserted in the gemfile on rails apps for Cabuum!
+>>>>>>> 5207cccc7e1df128d32a8aebaa48d4389b601594
