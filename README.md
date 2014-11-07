@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CabuumResources
 
 TODO: Write a gem description
@@ -33,4 +32,3 @@ Resources
 =========
 
 The repository should be inserted in the gemfile on rails apps for Cabuum!
->>>>>>> 5207cccc7e1df128d32a8aebaa48d4389b601594
